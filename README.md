@@ -15,4 +15,5 @@ With your knowledge of math operators and variables, use JavaScript to convert y
 The calculator takes the user’s name (which is converted to lowercase) and age which is calculated in dog years using the rules above.
 
 ### Screenshot:
-<img width="483" alt="dog_years" src="https://user-images.githubusercontent.com/68631829/89982536-d9b0a580-dc6d-11ea-90cb-e2a8d784cf1f.png">
+<img width="480" alt="dog_years" src="https://user-images.githubusercontent.com/68631829/89983141-ebdf1380-dc6e-11ea-9fc8-ab6010253068.png">
+

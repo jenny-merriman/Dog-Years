@@ -13,7 +13,7 @@ let laterYears = myAge - 2;
 //later years age in dogs years//
 laterYears *=4;
 
-console.log(`${earlyYears} ${laterYears}`)
+console.log(`${earlyYears} years + ${laterYears} years`)
 
 //early years + later years//
 myAgeInDogYears = earlyYears + laterYears
